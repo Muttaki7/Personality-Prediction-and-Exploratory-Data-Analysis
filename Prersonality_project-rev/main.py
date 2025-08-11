@@ -13,7 +13,7 @@ from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 
 # -------------------- Load Dataset --------------------
-file_path = r"C:\Users\Muttaki\Downloads\archive\personality_dataset.csv"
+file_path = r"C:\Users\Muttaki\Downloads\archive (1)\Fitness_Tracker_Data.csv"
 df = pd.read_csv(file_path)
 
 # -------------------- Basic Info --------------------
